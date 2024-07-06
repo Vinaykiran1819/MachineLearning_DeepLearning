@@ -3,4 +3,3 @@
 ### Crypto Price Prediction
 ### Insurance Fraud Detection
 ### Predicting Diabetes Early Readmission in US Hospital
-### Pyspark Weather Analytics
