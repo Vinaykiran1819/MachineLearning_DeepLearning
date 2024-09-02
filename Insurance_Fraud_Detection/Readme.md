@@ -28,10 +28,12 @@ Detecting fraudulent insurance claims is critical for minimizing losses in the i
    - Load and explore the dataset.
    - Handle imbalanced data to ensure model accuracy.
 
-2. **Feature Selection:**
+2. **Data Analysis and Feature Selection:**
    - Identify and select key features that influence the likelihood of fraud.
    - Ensure that non-predictive features like `claim_number` are excluded.
-
+  
+     ![EDA_Plot1](Images/EDA.png)
+     ![EDA_Plot1](Images/EDA_Plot.png)
 3. **Model Building:**
    - Implement various classification models to detect fraud.
    - Utilize GridSearchCV for hyperparameter tuning.
@@ -44,8 +46,6 @@ Detecting fraudulent insurance claims is critical for minimizing losses in the i
 ### Conclusion
 This project showcases a systematic approach to detecting fraudulent insurance claims using machine learning. The insights gained can assist insurance companies in identifying potential fraud more effectively.
 
-### Overview
- By leveraging advanced machine learning techniques, including Random Forests and Gradient Boosting, I significantly improved detection metrics, achieving a 70% F1 score and a 60% accuracy—up from a baseline of 40%. This enhancement in fraud detection not only led to substantial cost savings but also increased customer trust by accurately identifying and preventing fraudulent claims.
+- By leveraging advanced machine learning techniques, including Random Forests and Gradient Boosting, I significantly improved detection metrics, achieving a 70% F1 score and a 60% accuracy—up from a baseline of 40%. This enhancement in fraud detection not only led to substantial cost savings but also increased customer trust by accurately identifying and preventing fraudulent claims.
 
-### Skills
-Python(Pandas, Numpy, Matplotlib, Scikit-learn), Advanced ML, Hyperparameter Tuning
+
