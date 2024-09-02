@@ -26,6 +26,8 @@ This project focuses on predicting the price of cryptocurrencies using various m
 - Detailed analysis is performed to uncover insights from the data.
 - Visualizations and statistical methods are used to understand the distributions, correlations, and patterns in the dataset.
 
+![Target_Distribution](Images/EDA_Target.png)
+
 #### Feature Engineering:
 - Various features are engineered to enhance the predictive power of the model.
 - The dataset is transformed to suit the needs of machine learning algorithms.
@@ -33,6 +35,7 @@ This project focuses on predicting the price of cryptocurrencies using various m
 #### Modeling:
 - Different machine learning models are applied to predict the cryptocurrency prices.
 - The performance of each model is evaluated using appropriate metrics.
+- 
 
 #### Results and Insights:
 - The final model's performance is discussed.
