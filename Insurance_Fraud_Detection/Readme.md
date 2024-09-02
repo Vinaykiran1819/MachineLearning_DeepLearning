@@ -34,10 +34,13 @@ Detecting fraudulent insurance claims is critical for minimizing losses in the i
   
      ![EDA_Plot1](Images/EDA.png)
      ![EDA_Plot1](Images/EDA_Plot.png)
+     ![Permutation_Importance](Images/Permutation_Importance.png)
+     
 3. **Model Building:**
    - Implement various classification models to detect fraud.
    - Utilize GridSearchCV for hyperparameter tuning.
    - Evaluate model performance using metrics like accuracy, precision, and recall.
+
 
 4. **Results & Insights:**
    - Discuss the performance of the best model.
