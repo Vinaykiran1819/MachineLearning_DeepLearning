@@ -39,7 +39,6 @@ This project focuses on predicting the price of cryptocurrencies using various m
 ![Models](Images/Models.png)
 
 #### Results and Insights:
-- The final model's performance is discussed.
 - Key insights drawn from the predictions are presented.
 
 ![Best Model](Images/Model_Comparison.png)
