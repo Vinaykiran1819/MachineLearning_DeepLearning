@@ -22,10 +22,12 @@ Modern children and adolescents spend a significant amount of time online, poten
 ## 4. Exploratory Data Analysis (EDA)
 Before building predictive models, we performed an initial exploratory analysis to understand the data distribution and relationships.
 
-![EDA_Plot1](/Images/Internet_Usage.png)
+![EDA_Plot1](https://github.com/Vinaykiran1819/MachineLearning_DeepLearning/blob/main/Internet%20Usage-SII%20Predictor/Images/SIIDistribution.png)
+
 The bar chart indicates that most children fall into the lower severity categories (0.0 and 1.0).
 There are fewer samples in higher severity categories (2.0 and 3.0).
 
+![EDA_Plot2](https://github.com/Vinaykiran1819/MachineLearning_DeepLearning/blob/main/Internet%20Usage-SII%20Predictor/Images/Internet_Usage.png)
 
 Individuals in higher SII categories tend to have more hours of internet usage per day.
 This insight helps confirm that the SII metric correlates with actual hours spent online.
