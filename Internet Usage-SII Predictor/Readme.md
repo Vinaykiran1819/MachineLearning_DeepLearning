@@ -35,29 +35,29 @@ This insight helps confirm that the SII metric correlates with actual hours spen
 ## 5. Predictive Modeling Approach
 **Data Preprocessing**
 
-Handle missing values, outliers, and data normalization.
-Convert categorical data into numerical form if needed.
+- Handle missing values, outliers, and data normalization.
+- Convert categorical data into numerical form if needed.
 
 **Feature Engineering**
 
-Extract new features from the raw physical activity data (e.g., average steps per day, daily active minutes).
-Combine or transform existing features to highlight relevant patterns (e.g., activity intensity index).
+- Extract new features from the raw physical activity data (e.g., average steps per day, daily active minutes).
+- Combine or transform existing features to highlight relevant patterns (e.g., activity intensity index).
 
 **Model Selection**
 
-Consider algorithms such as Logistic Regression, Random Forest, or Gradient Boosting for classification tasks.
-Perform cross-validation to compare performance.
+- Consider algorithms such as Logistic Regression, Random Forest, or Gradient Boosting for classification tasks.
+- Perform cross-validation to compare performance.
 
 **Model Training and Evaluation**
 
-Split the data into training and testing sets.
-Use accuracy, precision, recall, or F1-score to evaluate model performance.
-Perform hyperparameter tuning to optimize model accuracy.
+- Split the data into training and testing sets.
+- Use accuracy, precision, recall, or F1-score to evaluate model performance.
+- Perform hyperparameter tuning to optimize model accuracy.
 
 **Results**
 
-Identify which physical activity features are most predictive of high SII categories.
-Generate a confusion matrix or classification report to see where the model performs well or struggles.
+- Identify which physical activity features are most predictive of high SII categories.
+- Generate a confusion matrix or classification report to see where the model performs well or struggles.
 
 
 ## 6. Conclusion
