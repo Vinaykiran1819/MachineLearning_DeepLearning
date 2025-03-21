@@ -22,6 +22,7 @@ Modern children and adolescents spend a significant amount of time online, poten
 ## 4. Exploratory Data Analysis (EDA)
 Before building predictive models, we performed an initial exploratory analysis to understand the data distribution and relationships.
 
+![EDA_Plot1](/Images/Internet_Usage.png)
 The bar chart indicates that most children fall into the lower severity categories (0.0 and 1.0).
 There are fewer samples in higher severity categories (2.0 and 3.0).
 
