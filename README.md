@@ -9,3 +9,4 @@
 ## Deep Learning Projects
 
 ### 1. Internet Usage - SII Predictor
+### 2. Customer Churn Prediction
